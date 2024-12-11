@@ -1,0 +1,14 @@
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\control-products-stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\control-products-stock.AssemblyInfoInputs.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\control-products-stock.AssemblyInfo.cs
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\control-products-stock.csproj.CoreCompileInputs.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\bin\Debug\net8.0\control-products-stock.exe
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\bin\Debug\net8.0\control-products-stock.deps.json
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\bin\Debug\net8.0\control-products-stock.runtimeconfig.json
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\bin\Debug\net8.0\control-products-stock.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\bin\Debug\net8.0\control-products-stock.pdb
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\control-products-stock.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\refint\control-products-stock.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\control-products-stock.pdb
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\control-products-stock.genruntimeconfig.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\control-products-stock\control-products-stock\obj\Debug\net8.0\ref\control-products-stock.dll

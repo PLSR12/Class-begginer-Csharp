@@ -1,0 +1,14 @@
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\first-exercise-class-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\first-exercise-class-poo.AssemblyInfoInputs.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\first-exercise-class-poo.AssemblyInfo.cs
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\first-exercise-class-poo.csproj.CoreCompileInputs.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\bin\Debug\net8.0\first-exercise-class-poo.exe
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\bin\Debug\net8.0\first-exercise-class-poo.deps.json
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\bin\Debug\net8.0\first-exercise-class-poo.runtimeconfig.json
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\bin\Debug\net8.0\first-exercise-class-poo.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\bin\Debug\net8.0\first-exercise-class-poo.pdb
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\first-exercise-class-poo.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\refint\first-exercise-class-poo.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\first-exercise-class-poo.pdb
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\first-exercise-class-poo.genruntimeconfig.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercise-class-poo\first-exercise-class-poo\obj\Debug\net8.0\ref\first-exercise-class-poo.dll

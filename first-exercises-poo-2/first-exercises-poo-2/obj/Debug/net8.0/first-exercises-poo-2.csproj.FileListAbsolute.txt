@@ -1,0 +1,14 @@
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\first-exercises-poo-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\first-exercises-poo-2.AssemblyInfoInputs.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\first-exercises-poo-2.AssemblyInfo.cs
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\first-exercises-poo-2.csproj.CoreCompileInputs.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\bin\Debug\net8.0\first-exercises-poo-2.exe
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\bin\Debug\net8.0\first-exercises-poo-2.deps.json
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\bin\Debug\net8.0\first-exercises-poo-2.runtimeconfig.json
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\bin\Debug\net8.0\first-exercises-poo-2.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\bin\Debug\net8.0\first-exercises-poo-2.pdb
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\first-exercises-poo-2.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\refint\first-exercises-poo-2.dll
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\first-exercises-poo-2.pdb
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\first-exercises-poo-2.genruntimeconfig.cache
+C:\Users\plreis\Downloads\repos\Pessoais\C#\first-exercises-poo-2\first-exercises-poo-2\obj\Debug\net8.0\ref\first-exercises-poo-2.dll
