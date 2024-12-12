@@ -1,0 +1,15 @@
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ConvertMoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ConvertMoney.AssemblyInfoInputs.cache
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ConvertMoney.AssemblyInfo.cs
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ConvertMoney.csproj.CoreCompileInputs.cache
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ConvertMoney.sourcelink.json
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\bin\Debug\net8.0\ConvertMoney.exe
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\bin\Debug\net8.0\ConvertMoney.deps.json
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\bin\Debug\net8.0\ConvertMoney.runtimeconfig.json
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\bin\Debug\net8.0\ConvertMoney.dll
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\bin\Debug\net8.0\ConvertMoney.pdb
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ConvertMoney.dll
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\refint\ConvertMoney.dll
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ConvertMoney.pdb
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ConvertMoney.genruntimeconfig.cache
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\ConvertMoney\ConvertMoney\obj\Debug\net8.0\ref\ConvertMoney.dll
