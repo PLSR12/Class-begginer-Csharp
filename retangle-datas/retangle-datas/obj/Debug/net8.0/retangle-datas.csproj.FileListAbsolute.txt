@@ -1,0 +1,15 @@
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\retangle-datas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\retangle-datas.AssemblyInfoInputs.cache
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\retangle-datas.AssemblyInfo.cs
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\retangle-datas.csproj.CoreCompileInputs.cache
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\retangle-datas.sourcelink.json
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\bin\Debug\net8.0\retangle-datas.exe
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\bin\Debug\net8.0\retangle-datas.deps.json
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\bin\Debug\net8.0\retangle-datas.runtimeconfig.json
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\bin\Debug\net8.0\retangle-datas.dll
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\bin\Debug\net8.0\retangle-datas.pdb
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\retangle-datas.dll
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\refint\retangle-datas.dll
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\retangle-datas.pdb
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\retangle-datas.genruntimeconfig.cache
+C:\Users\plreis\source\repos\PLSR12\Class-begginer-Csharp\retangle-datas\retangle-datas\obj\Debug\net8.0\ref\retangle-datas.dll

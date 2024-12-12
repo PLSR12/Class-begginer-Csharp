@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\plreis\\source\\repos\\PLSR12\\Class-begginer-Csharp\\retangle-datas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26927496-FE5A-4038-BD89-37A6D10B65DE}|retangle-datas\\retangle-datas.csproj|c:\\users\\plreis\\source\\repos\\plsr12\\class-begginer-csharp\\retangle-datas\\retangle-datas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26927496-FE5A-4038-BD89-37A6D10B65DE}|retangle-datas\\retangle-datas.csproj|solutionrelative:retangle-datas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26927496-FE5A-4038-BD89-37A6D10B65DE}|retangle-datas\\retangle-datas.csproj|c:\\users\\plreis\\source\\repos\\plsr12\\class-begginer-csharp\\retangle-datas\\retangle-datas\\retangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26927496-FE5A-4038-BD89-37A6D10B65DE}|retangle-datas\\retangle-datas.csproj|solutionrelative:retangle-datas\\retangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangle.cs",
+              "DocumentMoniker": "C:\\Users\\plreis\\source\\repos\\PLSR12\\Class-begginer-Csharp\\retangle-datas\\retangle-datas\\Retangle.cs",
+              "RelativeDocumentMoniker": "retangle-datas\\Retangle.cs",
+              "ToolTip": "C:\\Users\\plreis\\source\\repos\\PLSR12\\Class-begginer-Csharp\\retangle-datas\\retangle-datas\\Retangle.cs",
+              "RelativeToolTip": "retangle-datas\\Retangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:44:58.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\plreis\\source\\repos\\PLSR12\\Class-begginer-Csharp\\retangle-datas\\retangle-datas\\Program.cs",
+              "RelativeDocumentMoniker": "retangle-datas\\Program.cs",
+              "ToolTip": "C:\\Users\\plreis\\source\\repos\\PLSR12\\Class-begginer-Csharp\\retangle-datas\\retangle-datas\\Program.cs",
+              "RelativeToolTip": "retangle-datas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:44:24.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
